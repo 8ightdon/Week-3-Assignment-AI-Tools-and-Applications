@@ -3,7 +3,7 @@
 Welcome to our group assignment for **AI Tools and Applications**. In this project, we explore real-world applications of leading AI frameworks including TensorFlow, PyTorch, Scikit-learn, and spaCy — from classical machine learning to deep learning and natural language processing.
 
 > 🎯 **Theme:** *Mastering the AI Toolkit*  
-> 🧑‍🤝‍🧑 Group Members: Derick, [Name2], [Name3], [Name4], [Name5]
+> 🧑‍🤝‍🧑 Group Members: Derick, Presley, Daisy, Kerama, Doreen
 
 
 ---
